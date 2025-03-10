@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unclekevva
 - 👀 I’m interested and currently learning
 -   Linux, Rust & Cybersecurity
--   other her than that Music and Art mostly drawing :>>
+-   other than that Music and Art mostly drawing :>>
 
 - 📫 ig & twt: @jouwshy
 
